@@ -1,0 +1,13 @@
+package com.ghx.springbootdemo20200806;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootDemo20200806Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringbootDemo20200806Application.class, args);
+    }
+
+}
